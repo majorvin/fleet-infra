@@ -12,5 +12,4 @@ spec:
     kind: GitRepository
     name: podinfo
   targetNamespace: default
-  wait: 1s
   timeout: 1s
